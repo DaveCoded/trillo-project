@@ -47,5 +47,9 @@ body {
   background-color: #fff;
   border-bottom: var(--color-grey-light-2); }
 
+.content {
+  display: flex;
+  flex: 0 0 18%; }
+
 .sidebar {
   background-color: var(--color-grey-dark-1); }
